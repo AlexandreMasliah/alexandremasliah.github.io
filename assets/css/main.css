@@ -1700,7 +1700,11 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
+<<<<<<< HEAD
 			box-shadow: 0 0 0 2px #000000;
+=======
+			box-shadow: 0 0 0 2px #21b2a6;
+>>>>>>> parent of bbabc06... Change the 2nd background color
 		}
 
 	.select-wrapper {
@@ -1811,7 +1815,11 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
+<<<<<<< HEAD
 			box-shadow: 0 0 0 2px #000000;
+=======
+			box-shadow: 0 0 0 2px #21b2a6;
+>>>>>>> parent of bbabc06... Change the 2nd background color
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2641,7 +2649,11 @@
 		}
 
 		.wrapper.style1 {
+<<<<<<< HEAD
 			background-color: #000000;
+=======
+			background-color: #21b2a6;
+>>>>>>> parent of bbabc06... Change the 2nd background color
 			color: #c7ebe8;
 		}
 
@@ -2706,7 +2718,11 @@
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
 				background: #ffffff;
+<<<<<<< HEAD
 				color: #000000;
+=======
+				color: #21b2a6;
+>>>>>>> parent of bbabc06... Change the 2nd background color
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
@@ -3160,7 +3176,11 @@
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
+<<<<<<< HEAD
 		background: #000000;
+=======
+		background: #21b2a6;
+>>>>>>> parent of bbabc06... Change the 2nd background color
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
